@@ -25,8 +25,7 @@ This soccer database comes from Kaggle and is well suited for data analysis and 
 | :--- |
 | <a href='#Prerequisites'> Prerequisites </a> 🔍📜 | 
 | <a href='#Design'> Design </a>  📐 |
-| <a href='#Conclusions'> Conclusions </a>  📌 |
-| <a href='#License'> License </a> 🔖 |
+
 
 
 <a id='Prerequisites'></a>
